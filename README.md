@@ -7,7 +7,9 @@
 사용 기술: Win32 API, 더블 링크드리스트, 더블 버퍼링
 
 ** 테스트 프로젝트와 섞여있음
+
 ** 최종은 Solitaire1 폴더
+
 ** https://github.com/NSJ-student/solitaire_new/tree/master 에서 업데이트
 
 # UI
